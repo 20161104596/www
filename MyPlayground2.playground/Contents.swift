@@ -16,4 +16,3 @@ for i in 0..<a.count
     }
 }
 print(a)
-
