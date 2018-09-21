@@ -2,17 +2,6 @@
 
 import Cocoa
 
-var a=[12,42,35,43,23,76,94,10,40,66]
-for i in 0..<a.count
-{
-    for j in i+1..<a.count
-    {
-        if(a[i]>=a[j])
-        {
-            var temp=a[j]
-            a[j]=a[i]
-            a[i]=temp
-        }
-    }
-}
-print(a)
+var t1:(String,double_t,intmax_t)=("wyb",21,99)
+var t2:(String,intptr_t,int)=("xyf",21,96)
+
